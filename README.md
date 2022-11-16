@@ -1,16 +1,13 @@
-### Hi there 👋
+![readme banner](https://glass-vector.com/static7/preview2/stock-vector-kuhonnyy-fartuk-6022-20284.jpg)
+### Hi there!
 
-<!--
-**sasn6970/sasn6970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sara, a creative and self-proclaimed Pythonista. I'm a Data Analyst, who specializes in Python, SQL and Power BI, fueled by a Philosophy Degree. I'm also Azure Certified ☁️ I make it my mission to provide value by cleaning, structuring and communicating Data insights in the most accesible way possible. 💬
 
-Here are some ideas to get you started:
+I'm experienced with VSC, Anaconda, Google Colab and PyCharm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to know more about me? Check out my portfolio... or reach me out directly [@LinkedIn](https://www.linkedin.com/in/sara-sancliment-garcia-4336b1235/)
+
+
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasn6970&theme=gotham)](https://github.com/sasn6970/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasn6970&layout=compact&theme=radical)](https://github.com/sasn6970/github-readme-stats)
+[readme banner](https://user-images.githubusercontent.com/95544784/202266433-e221f624-a525-4c3c-8f5c-1e02b6c41df7.png)
